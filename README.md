@@ -16,7 +16,7 @@
 <a href="https://github.com/Mrrashmika?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Mrrashmika?color=green&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mrrashmika/QUEEN_ANJU_MD?color=white&style=flat-square"></a>
 <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mrrashmika/QUEEN_ANJU_MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN_ANJU_MD?label=Watchers&color=red&style=flat-square"></a> jja
+<a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mrrashmika/QUEEN_ANJU_MD?label=Watchers&color=red&style=flat-square"></a> jjam
 <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD"><img title="Size" src="https://img.shields.io/github/repo-size/Mrrashmika/QUEEN_ANJU_MD?style=flat-square&color=darkred"></a>
 <a href="https://github.com/Mrrashmika/QUEEN_ANJU_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 
